@@ -1,0 +1,9 @@
+{
+  "Content-Type": "application/json"
+    "Servers": [
+     {
+       "Version": "mdm-byod",
+       "BaseURL": "https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=371a7230-8d27-4407-a99f-3a1f3e9dd008"
+     }
+    ]
+  }
